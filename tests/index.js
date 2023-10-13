@@ -84,7 +84,7 @@ function higherOrderFilter() {
    // Paste your code here
 }
 
-// Do not change anything here two
+// Do not change anything here
 module.exports = {
    nFactorial,
    isPrimeNumber,
