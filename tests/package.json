@@ -1,0 +1,16 @@
+{
+   "name": "ten x js test",
+   "description": "test your js skill",
+   "main": "index.js",
+   "scripts": {
+      "test": "mocha ./no-need-to-touch/tests/test.test.js",
+      "test:only": "mocha ./no-need-to-touch/tests/test.test.js -g",
+      "js": "node --watch index.js"
+   },
+   "author": "zaw win nai",
+   "license": "ISC",
+   "devDependencies": {
+      "chai": "^4.3.10",
+      "mocha": "^10.2.0"
+   }
+}
